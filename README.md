@@ -84,4 +84,4 @@ Contato:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JenniferDaleffi&layout=compact&theme=radical)
 
 
-![Snake animation](https://github.com/afeifz/afeifz/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JenniferDaleffi/JenniferDaleffi/blob/output/github-contribution-grid-snake.svg)
