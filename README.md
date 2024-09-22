@@ -2,15 +2,17 @@
 
 ![Jennifer GitHub stats](https://github-readme-stats.vercel.app/api?username=JenniferDaleffi&show_icons=true&theme=radical)
 
+
+
+## 💫 Sobre mim 
+
+Atualmente, estudante de Análise e Desenvolvimento de Sistemas na FIAP (Faculdade de Informática e Administração Paulista) e formada em Mecânica pelo IFSP (Instituto Federal de São Paulo). Proatividade, comunicação e liderança em projetos acadêmicos são características marcantes, sempre visando o bom desenvolvimento. Participação ativa em grupos de eventos futuros e desafios, buscando aprimorar habilidades em computação e inovação.
+
 <div align="center">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/jenniferdaleffi/)](https://www.linkedin.com/in/jenniferdaleffi/)
 
 </div>
-
-## 💫 Sobre mim 
-
-Atualmente, estudante de Análise e Desenvolvimento de Sistemas na FIAP (Faculdade de Informática e Administração Paulista) e formada em Mecânica pelo IFSP (Instituto Federal de São Paulo). Proatividade, comunicação e liderança em projetos acadêmicos são características marcantes, sempre visando o bom desenvolvimento. Participação ativa em grupos de eventos futuros e desafios, buscando aprimorar habilidades em computação e inovação.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
