@@ -9,9 +9,9 @@
 
 </div>
 
-<div align='center' style="display:flex; align-items:center; justify-content:center; gap:10px;" >
+<div align='center' style="display:flex; align-items:center; justify-content:center;" >
   <img src="https://img.icons8.com/?size=100&id=tZ7PKIhXgzh8&format=png&color=000000" width=50' /> 
-  <p style="font-size:22px; margin-top:10px; " >Sobre mim</p>
+  <p style="" >Sobre mim</p>
 </div>
 
 
