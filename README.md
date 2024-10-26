@@ -8,12 +8,9 @@
 ![Jennifer GitHub stats](https://github-readme-stats.vercel.app/api?username=JenniferDaleffi&show_icons=true&theme=radical)
 
 </div>
+<img src="https://img.icons8.com/?size=100&id=tZ7PKIhXgzh8&format=png&color=000000" width=50' /> 
 
-<div align='center' style="display:flex; align-items:center; justify-content:center; gap:10px;" >
-  <img src="https://img.icons8.com/?size=100&id=tZ7PKIhXgzh8&format=png&color=000000" width=50' /> 
-  <p style="font-size:22px; margin-top:10px;" >Sobre mim</p>
-</div>
-
+## Sobre mim
 
 Atualmente, estudante de Análise e Desenvolvimento de Sistemas na FIAP (Faculdade de Informática e Administração Paulista) e formada em Mecânica pelo IFSP (Instituto Federal de São Paulo). Proatividade, comunicação e liderança em projetos acadêmicos são características marcantes, sempre visando o bom desenvolvimento. Participação ativa em grupos de eventos futuros e desafios, buscando aprimorar habilidades em computação e inovação.
 
@@ -26,19 +23,14 @@ Atualmente, estudante de Análise e Desenvolvimento de Sistemas na FIAP (Faculda
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
+## 💻 Áreas
 
-<div align='center' style="display:flex; align-items:center; justify-content:center; gap:10px;" >
-<img src="https://img.icons8.com/?size=100&id=iCwcOoy8tOGw&format=png&color=000000" width="50"/>
-<p style="font-size:22px; margin-top:20px;">Áreas</p>
-</div>
 
-<div align="center" >
-<p style="font-size:18px;">Análise de Dados 📊</p>
-<p style="font-size:18px;">Back-end Java ☕</p>
-</div>
+### Análise de Dados 📊
+### Back-end Java ☕
+
 
 
 
