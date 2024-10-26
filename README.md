@@ -1,25 +1,49 @@
-### Olá, sou Jennifer Daleffi! Estudante de Análise e Desenvolvimento de Sistemas. 💻
+<img src='https://capsule-render.vercel.app/api?type=waving&color=fe428e&height=120&section=header' width='100%'/>
+
+![Apresentação](https://readme-typing-svg.demolab.com/?lines=Olá+sou+Jennifer+Daleffi;Estudante+e+Analista&center=true&vCenter=true&size=45&width=1000&color=fe428e&font='Poppins')
+
+
+<div align='center'>
 
 ![Jennifer GitHub stats](https://github-readme-stats.vercel.app/api?username=JenniferDaleffi&show_icons=true&theme=radical)
 
+</div>
 
+<div align='center' style="display:flex; align-items:center; justify-content:center; gap:10px;" >
+<img src="https://img.icons8.com/?size=100&id=tZ7PKIhXgzh8&format=png&color=000000" width=50' /> 
+<p style="font-size:22px; margin-top:10px; " >Sobre mim</p>
 
-## 💫 Sobre mim 
+</div>
+
 
 Atualmente, estudante de Análise e Desenvolvimento de Sistemas na FIAP (Faculdade de Informática e Administração Paulista) e formada em Mecânica pelo IFSP (Instituto Federal de São Paulo). Proatividade, comunicação e liderança em projetos acadêmicos são características marcantes, sempre visando o bom desenvolvimento. Participação ativa em grupos de eventos futuros e desafios, buscando aprimorar habilidades em computação e inovação.
 
 <div align="center">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/jenniferdaleffi/)](https://www.linkedin.com/in/jenniferdaleffi/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jenniferdaleffii@gmail.com)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
+)](mailto:jenniferdaleffi@outlook.com)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠 Áreas
 
-### • Análise de Dados 📊
-### • Engenharia de Dados 🔧
+
+<div style="display:flex; align-items:center; justify-content:center; gap:10px;" >
+<img src="https://img.icons8.com/?size=100&id=iCwcOoy8tOGw&format=png&color=000000" width="50"/>
+
+<p style="font-size:22px; margin-top:20px;">Áreas</p>
+
+</div>
+
+<div align="center" >
+<p style="font-size:18px;">Análise de Dados 📊</p>
+<p style="font-size:18px;">Back-end Java ☕</p>
+</div>
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
