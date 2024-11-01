@@ -49,13 +49,13 @@ Atualmente, estudante de Análise e Desenvolvimento de Sistemas na FIAP (Faculda
 Tecnologias:
 <div align="center">
 
-[![Java](https://img.icons8.com/?size=70&id=13679&format=png&color=000000)]()
-[![Python](https://img.icons8.com/?size70&id=13441&format=png&color=000000)]()
-[![TypeScript](https://img.icons8.com/?size=70&id=uJM6fQYqDaZK&format=png&color=000000)]()
-[![HTML5](https://img.icons8.com/?size=70&id=20909&format=png&color=000000)]()
-[![CSS3](https://img.icons8.com/?size=70&id=21278&format=png&color=000000)]()
-[![Office](https://img.icons8.com/?size=70&id=37619&format=png&color=000000)]()
-[![Oracle](https://img.icons8.com/?size=70&id=39913&format=png&color=000000)]()
+[![Java](https://img.icons8.com/?size=50&id=13679&format=png&color=000000)]()
+[![Python](https://img.icons8.com/?size50&id=13441&format=png&color=000000)]()
+[![TypeScript](https://img.icons8.com/?size=50&id=uJM6fQYqDaZK&format=png&color=000000)]()
+[![HTML5](https://img.icons8.com/?size=50&id=20909&format=png&color=000000)]()
+[![CSS3](https://img.icons8.com/?size=50&id=21278&format=png&color=000000)]()
+[![Office](https://img.icons8.com/?size=50&id=37619&format=png&color=000000)]()
+[![Oracle](https://img.icons8.com/?size=50&id=39913&format=png&color=000000)]()
 
 </div>
 
