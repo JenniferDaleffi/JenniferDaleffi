@@ -47,16 +47,17 @@ Atualmente, estudante de Análise e Desenvolvimento de Sistemas na FIAP (Faculda
 
 
 Tecnologias:
+<div align="center">
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)]()
-[![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white
-)]()
+[![Java](https://img.icons8.com/?size=50&id=13679&format=png&color=000000)]()
+[![Python](https://img.icons8.com/?size50&id=13441&format=png&color=000000)]()
+[![TypeScript](https://img.icons8.com/?size=50&id=uJM6fQYqDaZK&format=png&color=000000)]()
+[![HTML5](https://img.icons8.com/?size=50&id=20909&format=png&color=000000)]()
+[![CSS3](https://img.icons8.com/?size=50&id=21278&format=png&color=000000)]()
+[![Office](https://img.icons8.com/?size=50&id=37619&format=png&color=000000)]()
+[![Oracle](https://img.icons8.com/?size=50&id=39913&format=png&color=000000)]()
+
+</div>
 
 Frameworks:
 
@@ -72,7 +73,7 @@ Frameworks:
 
 Ferramentas:
 
-[![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
+[![VSCode](https://img.icons8.com/?size=50&id=9OGIyU8hrxW5&format=png&color=000000)]()
 [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)]()
 [![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)]()
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)]()
@@ -84,17 +85,10 @@ Ferramentas:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-Contato:
-
-📧 jenniferdalefii@gmail.com
-
-📥 jenniferdaleffi@outlook.com
-
-
-
+<div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JenniferDaleffi&layout=compact&theme=radical)
 
 ![Snake animation](https://github.com/JenniferDaleffi/JenniferDaleffi/blob/output/github-contribution-grid-snake.svg)
 
+</div>
