@@ -1,6 +1,6 @@
 <img src='https://capsule-render.vercel.app/api?type=waving&color=fe428e&height=120&section=header' width='100%'/>
 
-![Apresentação](https://readme-typing-svg.demolab.com/?lines=Olá!+Meu+nome+é+Jennifer.;Sou+Analista+de+Dados+e+Back-End+Java.&center=true&vCenter=true&size=45&width=1000&color=fe428e&font='Poppins')
+![Apresentação](https://readme-typing-svg.demolab.com/?lines=Olá!+Meu+nome+é+Jennifer.;&center=true&vCenter=true&size=45&width=1000&color=fe428e&font='Poppins')
 
 
 <div align='center'>
@@ -30,7 +30,7 @@ Atualmente, estudante de Análise e Desenvolvimento de Sistemas na FIAP (Faculda
 ## 💻 Áreas
 
 
-### Análise de Dados e Back-end Java ☕
+### Infra & Devops e Back-end Java ☕
 
 
 
