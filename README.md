@@ -45,7 +45,7 @@ Atualmente, estudante de Análise e Desenvolvimento de Sistemas na FIAP (Faculda
 | Área              | Habilidades                                                                                   |
 |-------------------|-----------------------------------------------------------------------------------------------|
 | **Idiomas**    | Português, Inglês, Espanhol                                                                            |
-| **Office**   |Word, Excel, Power BI, PowerPoint                                                                                 |
+| **Office**   |Word, Excel, Power BI, PowerPoint, Power Apps, Power Automate                                                                                 |
 | **Banco de Dados**| Oracle, PostgreeSql                                                                                |
 | **Metodologias**  | SCRUM, Kanban, Agile                                                                                 |
 </div>
