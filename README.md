@@ -9,10 +9,6 @@
 
 </div>
 
-<div align="center">
-<img src="https://img.icons8.com/?size=100&id=tZ7PKIhXgzh8&format=png&color=000000" width=50' /> 
-</div>
-
 ## Sobre mim
 
 Atualmente, estudante de Análise e Desenvolvimento de Sistemas na FIAP (Faculdade de Informática e Administração Paulista) e formada em Mecânica pelo IFSP (Instituto Federal de São Paulo). Proatividade, comunicação e liderança em projetos acadêmicos são características marcantes, sempre visando o bom desenvolvimento. Participação ativa em grupos de eventos futuros e desafios, buscando aprimorar habilidades em computação e inovação.
