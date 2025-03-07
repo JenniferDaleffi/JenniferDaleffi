@@ -51,7 +51,7 @@ Atualmente, estudante de Análise e Desenvolvimento de Sistemas na FIAP (Faculda
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## Tecnologias:
+## Linguagens:
 <div align="center">
 
 [![Java](https://img.icons8.com/?size=50&id=13679&format=png&color=000000)]()
