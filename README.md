@@ -56,7 +56,6 @@ Atualmente, estudante de Análise e Desenvolvimento de Sistemas na FIAP (Faculda
 
 [![Java](https://img.icons8.com/?size=50&id=13679&format=png&color=000000)]()
 [![Python](https://img.icons8.com/?size50&id=13441&format=png&color=000000)]()
-[![Office](https://img.icons8.com/?size=50&id=37619&format=png&color=000000)]()
 
 </div>
 
@@ -84,6 +83,7 @@ Atualmente, estudante de Análise e Desenvolvimento de Sistemas na FIAP (Faculda
 [![Figma](https://img.icons8.com/?size=50&id=zfHRZ6i1Wg0U&format=png&color=000000)]()
 [![Postgree](https://img.icons8.com/?size=50&id=Pv4IGT0TSpt8&format=png&color=000000)]()
 [![Oracle](https://img.icons8.com/?size=50&id=39913&format=png&color=000000)]()
+[![Office](https://img.icons8.com/?size=50&id=37619&format=png&color=000000)]()
 
 </div>
 
