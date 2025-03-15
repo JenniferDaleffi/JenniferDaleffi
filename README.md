@@ -26,7 +26,7 @@ Atualmente, estudante de Análise e Desenvolvimento de Sistemas na FIAP (Faculda
 ## 💻 Áreas
 
 
-### Infra & Devops e Back-end Java ☕
+### Infra & Devops
 
 
 
