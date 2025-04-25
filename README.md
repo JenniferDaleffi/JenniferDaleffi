@@ -1,25 +1,3 @@
-<div align="center">
-    <img width=300 src="./assets/main.gif"/>    
-    <br/>
-    <br/>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+DIMFLIX!" alt="Typing SVG" /></a>
-</div>
-
-<div align="center">
-    <a href="https://t.me/dimflix_official">
-        <img src="https://img.shields.io/badge/-Telegram-f5e0dc?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram"/>
-    </a>
-    <a href="https://www.youtube.com/DIMFLIX">
-        <img src="https://img.shields.io/badge/-YouTube-f2cdcd?style=for-the-badge&logo=YouTube&logoColor=FF0000" alt="YouTube"/>
-    </a>
-    <a href="https://vk.com/dimflix_official">
-        <img src="https://img.shields.io/badge/-Vkontakte-f5c2e7?style=for-the-badge&logo=Vk&logoColor=4F7DB3" alt="Vkontakte"/>
-    </a>
-    <a href="https://discord.com/users/505384503150116866/">
-        <img src="https://img.shields.io/badge/-Discord-cba6f7?style=for-the-badge&logo=discord&logoColor=5F66E6" alt="Instagram"/>
-    </a>
-</div>
-
 <img src='https://capsule-render.vercel.app/api?type=waving&color=fe428e&height=120&section=header' width='100%'/>
 
 ![Apresentação](https://readme-typing-svg.demolab.com/?lines=Olá!+Meu+nome+é+Jennifer.;&center=true&vCenter=true&size=45&width=1000&color=fe428e&font='Poppins')
