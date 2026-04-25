@@ -3,9 +3,9 @@
 ![Apresentação](https://readme-typing-svg.demolab.com/?lines=Olá!+Meu+nome+é+Jennifer.;&center=true&vCenter=true&size=45&width=1000&color=fe428e&font='Poppins')
 
 
-## Sobre mim
+## About me
 
-Atualmente, estudante de Análise e Desenvolvimento de Sistemas na FIAP (Faculdade de Informática e Administração Paulista) e formada em Mecânica pelo IFSP (Instituto Federal de São Paulo). Proatividade, comunicação e liderança em projetos acadêmicos são características marcantes, sempre visando o bom desenvolvimento. Participação ativa em grupos de eventos futuros e desafios, buscando aprimorar habilidades em computação e inovação.
+Currently graduated in Systems Analysis and Development from FIAP (Faculdade de Informática e Administração Paulista) and pursuing a postgraduate degree in Data Analytics at FIAP. Proactivity, communication, and leadership in academic projects are strong characteristics, always aiming for effective development. Actively participates in groups focused on future events and challenges, seeking to continuously improve skills in computing and innovation.
 
 <div align="center">
 
@@ -17,10 +17,10 @@ Atualmente, estudante de Análise e Desenvolvimento de Sistemas na FIAP (Faculda
 
 
 
-## 💻 Áreas
+## 💻 Areas
 
 
-### Infra & Devops
+### Automation, Devops & Data Analytics
 
 
 
@@ -28,16 +28,16 @@ Atualmente, estudante de Análise e Desenvolvimento de Sistemas na FIAP (Faculda
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 👩‍💻 Minhas Competências
+## 👩‍💻 Skills
 
 <div align="center">
 
-| Área              | Habilidades                                                                                   |
+| Areas              | Skills                                                                                   |
 |-------------------|-----------------------------------------------------------------------------------------------|
-| **Idiomas**    | Português, Inglês, Espanhol                                                                            |
+| **Languages**    | Portuguese, English, Spanish                                                                            |
 | **Office**   |Word, Excel, Power BI, PowerPoint, Power Apps, Power Automate                                                                                 |
-| **Banco de Dados**| Oracle, PostgreeSql                                                                                |
-| **Metodologias**  | SCRUM, Kanban, Agile                                                                                 |
+| **Database**| Oracle, PostgreeSql, SQLServer                                                                                |
+| **methodologies**  | SCRUM, Kanban, Agile                                                                                 |
 </div>
 
 
@@ -45,7 +45,7 @@ Atualmente, estudante de Análise e Desenvolvimento de Sistemas na FIAP (Faculda
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## Linguagens:
+## Programming Languages:
 <div align="center">
 
 [![Java](https://img.icons8.com/?size=50&id=13679&format=png&color=000000)]()
@@ -65,7 +65,7 @@ Atualmente, estudante de Análise e Desenvolvimento de Sistemas na FIAP (Faculda
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Ferramentas:
+## Tools:
 <div align="center">
 
 [![VSCode](https://img.icons8.com/?size=50&id=9OGIyU8hrxW5&format=png&color=000000)]()
